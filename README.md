@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+New software developer working on figuring out the basics!
+she/her
+
 <!--
 **EmmyCurry/EmmyCurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
